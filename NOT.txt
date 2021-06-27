@@ -1,0 +1,10 @@
+
+	Çalýþtýrýlacak ana kod: findBestPID.m
+
+Bu kod, en uyugn PID parametrelerini buþur ve bestPID.mat dosyasýna kaydeder.
+
+
+	Çalýþtýrýlacak ikinci kod best_control_code_CSTR.m
+
+Bu kod, önceki kod ile elde edilen ve bestPID.mat doyasýna kaydedilen en iyi PID parametrelerini
+yükler. Bunlarý kullanarak kontrol yapar ve sonucu çizdirir.
